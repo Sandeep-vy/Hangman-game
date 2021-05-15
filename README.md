@@ -1,1 +1,2 @@
 # Hangman-game
+The Hangman is a web project developed using HTML5, CSS, and JavaScript. This game is about guessing letters (A-Z) to form the words. You have to find the word by selecting a letter each time. If the player guesses the right letter that is within the word, the letter appears at its correct positions. You win if you find the word in certain amount of chances, if he/she fails to complete the word then the game is over.
